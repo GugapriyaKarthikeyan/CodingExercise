@@ -37,7 +37,7 @@ Some examples of Linux Commands are:
 
 ---
 
-## Task 4. What isgit and what version is installed in your Linux machine?
+## Task 4. What is git and what version is installed in your Linux machine?
 
 Git is a distributed version control systemwhich maintains different versions of your project when we work in a team or as an individual. As the project progresses, new features get added to it. Since it is a distributed version, it has a local repository of the project in his/her local machine unlike central where team members should have an internet connection to update their work every time to main central repository and the git version installed in my machine is 2.7.4.
 
